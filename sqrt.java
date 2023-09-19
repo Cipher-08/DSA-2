@@ -18,6 +18,7 @@ public class sqaure {
                 start = mid+1;
             }
         }
+        ///for no perfect square
 
          double incr =0.1;
         for(int i=0;i<p;i++){
